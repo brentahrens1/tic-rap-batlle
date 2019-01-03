@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box; 
+    font-family: 'Staatliches', cursive;
+    cursor: url(https://i.imgur.com/XoSkc0k.png), pointer; 
+}
+
+header {
+    text-align: center; 
+    background-color: #930E11; 
+    position: fixed; 
+    height: 60px;
+    top: 0; 
+    left: 0; 
+    right: 0; 
+}
+
+h1 {
+    padding-bottom: 35px; 
+    color: #FBE1B8; 
+}
+
+h2 {
+    text-align: center; 
+}
+
+table {
+    display: flex;
+    justify-content: center; 
+    height: 600px; 
+    width: 600px; 
+    margin-top: 30px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 60px;
+}
+
+.square {
+   background-color: white; 
+   margin: 10px 10px; 
+ 
+}
+
+td {
+    border: 2px solid #333;
+    height: 200px; 
+    width: 200px; 
+    text-align: center;
+    vertical-align: middle; 
+    font-size: 70px; 
+    cursor: pointer;  
+    border: 2px solid #333;
+    cursor: url(https://i.imgur.com/XoSkc0k.png), pointer; 
+    
+}
+
+td img {
+    display: block; 
+    max-height: 100%;
+    max-width:100%;
+    margin: auto; 
+   
+}
+
+button {
+    height: 60px;
+    width:110px;
+    margin: 53px auto 0px auto; 
+    background-color: black; 
+    color: white; 
+    font-size: 20px;
+
+}
+
+h3 {
+    color: white;
+}
+
+
+footer {
+    background-color: black; 
+    text-align: center; 
+    height: 40px;
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+}
+
+
+
+
+
+
